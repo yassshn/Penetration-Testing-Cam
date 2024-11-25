@@ -1,6 +1,6 @@
 ### Summary of the Report: Pentesting of the Camera
 
-This report details a security analysis conducted on a network-connected **camera** and its companion mobile application. 
+Formulated report on a security analysis conducted on a network-connected **camera** and its companion mobile application. 
 The assessment focused on identifying vulnerabilities in the device's setup process, network communication, and the mobile app's handling of user data.
 While the camera's core functions demonstrated secure practices, the analysis revealed several weaknesses primarily tied to the mobile application.
 
